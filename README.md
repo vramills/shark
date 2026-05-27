@@ -234,6 +234,15 @@ Fem clic dret sobre el paquet que conté el missatge → `Seguir → Flujo TCP`:
 
 <img src="img/24.png">
 
+### Pregunta
+
+S'ha enviat el següent correu:
+
+- `Remitent:` pau
+- `Destinatari:` root
+- `Contingut del missatge:` mensaje ultrasecreto para el administrador
+- `Servidor SMTP:` ubuntu-server (Postfix)
+
 Podem veure el contingut complet del correu en text clar:
 
 <img src="img/25.png">
@@ -274,12 +283,3 @@ quit
 
 221 2.0.0 Bye
 ```
-
-### Pregunta
-
-S'ha enviat el següent correu:
-
-- `Remitent:` pau
-- `Destinatari:` root
-- `Contingut del missatge:` mensaje ultrasecreto para el administrador
-- `Servidor SMTP:` ubuntu-server (Postfix)

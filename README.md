@@ -4,9 +4,9 @@
 
 Per fer aquesta pràctica necessitem el Kali Linux amb Wireshark instal·lat i la targeta de xarxa configurada en mode pont amb les següents dades:
 
-- `IP:` 192.168.4.26/24
-- `Porta d'enllaç:` 192.168.4.254
-- `DNS:` 8.8.8.8
+- IP: `192.168.4.26/24`
+- Porta d'enllaç: `192.168.4.254`
+- DNS: `8.8.8.8`
 
 Accedim a la configuració de xarxa i configurem l'adaptador manualment:
 
@@ -279,7 +279,7 @@ quit
 
 S'ha enviat el següent correu:
 
-- `Remitent:` `pau`
-- `Destinatari:` `root`
-- `Contingut del missatge:` `mensaje ultrasecreto para el administrador`
-- `Servidor SMTP:` `ubuntu-server` (Postfix)
+- `Remitent:` pau
+- `Destinatari:` root
+- `Contingut del missatge:` mensaje ultrasecreto para el administrador
+- `Servidor SMTP:` ubuntu-server (Postfix)

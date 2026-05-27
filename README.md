@@ -170,6 +170,8 @@ O=<88>=O<E
 
 El Domini de la IP destí (94.142.241.111), pertany a `towel.blinkenlights.nl`.
 
+<img src="img/26.png">
+
 ---
 
 ### 2.4 SSH — captura1.pcapng
